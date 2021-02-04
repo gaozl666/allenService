@@ -1,0 +1,9 @@
+#******apollo参数配置******#
+app:
+    id: jf-tk-mybatis-1.0
+apollo:
+ meta: http://localhost:8070
+ bootstrap:
+   enabled: true
+   eagerLoad:
+     enabled: true
